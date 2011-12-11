@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Dec 11 18:46:59 GMT+03:00 2011:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0134-2dce-439f-000000acb628 
+on database directory memory:E:\Users\andrey\Desktop\Lesson22\RealtyDB  with class loader sun.misc.Launcher$AppClassLoader@1813fac 
+Loaded from file:/E:/Users/andrey/Desktop/Lesson22/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_01-b08
+user.dir=E:\Users\andrey\Desktop\Lesson22
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
