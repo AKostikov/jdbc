@@ -36,7 +36,7 @@ class EmployeeList {
 
    try {
      Class.forName("org.apache.derby.jdbc.ClientDriver");
-     conn = DriverManager.getConnection("jdbc:derby:memory:RealtyDB;create=true");
+     conn = DriverManager.getConnection("jdbc:derby:RealtyDB;create=true");
      String sqlCreateBuildingsTable = "CREATE TABLE Buildings(BuildingID int primary key generated always as identity," +
      		" Street varchar (50), Number int )";
      String sqlCreateApartmentsTable = "CREATE TABLE Apartments(ApartmentID int primary key generated always as identity," +
